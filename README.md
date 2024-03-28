@@ -5,8 +5,8 @@ Welcome to the AT&T Big Data Architecture and Governance Project repository. Thi
 ## Data Strategy Visualizations
 To facilitate understanding, the following diagrams are provided:
 
-Data Vision Diagram:  
-UML Diagram: 
+Data Vision Diagram:  ![final-doc](https://github.com/danny002951106/AT-T_Big_Data_Architecture_and_Governance/assets/90948199/22188999-d512-4bb2-bb83-019507b791c1)
+
 
 ### 1.  Impact Statement
 ### Project Name: Predicting Network Outages
